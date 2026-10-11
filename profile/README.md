@@ -1,21 +1,21 @@
-<p align="center">
+<p>
   <a href="https://foliox.me">
     <img src="https://foliox.me/favicon.svg" alt="FolioX" width="36" height="36" />
   </a>
 </p>
 
-<h1 align="center">FolioX</h1>
+<h1>FolioX</h1>
 
-<p align="center">
+<p>
   <strong>Your portfolio and ATS resume in one place. No code required.</strong>
 </p>
 
-<p align="center">
+<p>
   One profile. A live site at <code>foliox.me/you</code>. An ATS-ready PDF.<br />
   Always in sync. Ready in minutes.
 </p>
 
-<p align="center">
+<p>
   <a href="https://foliox.me">Website</a> ·
   <a href="https://foliox.me/login?signup=true">Get started free</a> ·
   <a href="https://foliox.me/pricing">Pricing</a> ·
@@ -23,7 +23,7 @@
   <a href="https://status.foliox.me">Status</a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://foliox.me">
     <img src="https://foliox.me/images/og.png" alt="FolioX: build your professional portfolio and ATS resume in minutes" width="800" />
   </a>
