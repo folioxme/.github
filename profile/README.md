@@ -39,13 +39,13 @@ FolioX is the source of truth for that. Fill one profile, or upload an existing 
 
 - A mobile-ready portfolio at [foliox.me/username](https://foliox.me)
 - An ATS-friendly resume PDF from the same data
-- Updates in one place, not three
+- Traffic, locations, and clicks in one Analytics Dashboard
 
 Built for job seekers, developers, designers, freelancers, and students.
 
 ## What we build
 
-| | |
+| Feature | Description |
 | :--- | :--- |
 | **Live portfolio** | Publish at `foliox.me/you`. Light and dark templates, SEO, mobile-first. |
 | **ATS resume** | Single-column PDFs recruiters and applicant tracking systems can actually parse. Export anytime. |
@@ -68,13 +68,13 @@ Built for job seekers, developers, designers, freelancers, and students.
 ## Links
 
 - [foliox.me](https://foliox.me)
+- [Live Demo](https://foliox.me/steve)
 - [Why FolioX](https://foliox.me/why-foliox)
-- [Guides](https://foliox.me/guides) · [Blog](https://foliox.me/blog) · [Comparisons](https://foliox.me/vs)
 - [Privacy](https://foliox.me/privacy) · [Terms](https://foliox.me/terms)
 - Status: [status.foliox.me](https://status.foliox.me)
 
 ## Contact
 
-Questions, press, or partnerships: [contact.foliox@gmail.com](mailto:contact.foliox@gmail.com)
+Questions, press, or partnerships: [contact@foliox.me](mailto:contact@foliox.me)
 
 We typically reply within 24 hours.
