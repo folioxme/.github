@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <a href="https://foliox.me/login?signup=true"><strong>Get started free</strong></a> ·
+  <a href="https://foliox.me/signup"><strong>Get started free</strong></a> ·
   <a href="https://foliox.me/steve">Live demo</a> ·
   <a href="https://foliox.me/features">Features</a> ·
   <a href="https://foliox.me/pricing">Pricing</a> ·
@@ -95,19 +95,17 @@ For more details: [pricing page](https://foliox.me/pricing).
 
 ## Get started
 
-1. [Sign up](https://foliox.me/login?signup=true) and claim your username.
+1. [Sign up](https://foliox.me/signup) and claim your username.
 2. Upload your resume, or fill in your profile by hand.
 3. Choose a template and publish. Your portfolio and resume are live.
 4. Set your target roles and locations to start getting job matches.
 
-<a href="https://foliox.me/login?signup=true"><strong>Claim your username →</strong></a>
+<a href="https://foliox.me/signup"><strong>Claim your username →</strong></a>
 
 ## Learn more
 
 - [Why FolioX](https://foliox.me/why-foliox)
-- [Example portfolios](https://foliox.me/examples) · [Resume templates](https://foliox.me/resume-templates)
-- [Guides](https://foliox.me/guides): [making your resume ATS-friendly](https://foliox.me/guides/how-to-make-resume-ats-friendly), [building a developer portfolio](https://foliox.me/guides/how-to-build-a-developer-portfolio), and more
-- [Blog](https://foliox.me/blog)
+- [About FolioX](https://foliox.me/about)
 - [Privacy](https://foliox.me/privacy) · [Terms](https://foliox.me/terms)
 
 ## Contact
